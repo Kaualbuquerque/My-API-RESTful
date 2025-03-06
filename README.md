@@ -1,4 +1,4 @@
-#RESTful API construída em Java 17 com Spring Boot 3.
+# RESTful API construída em Java 17 com Spring Boot 3.
 
 Esta foi uma API feita num curso da DIO (Digital Innovation One) onde eles ensinam a desenvolver e publicar sua API RESTful.
 
