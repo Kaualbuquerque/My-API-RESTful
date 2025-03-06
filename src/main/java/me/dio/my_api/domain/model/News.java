@@ -1,8 +1,8 @@
 package me.dio.my_api.domain.model;
 
-import jakarta.persistence.MappedSuperclass;
+import jakarta.persistence.Entity;
 
-@MappedSuperclass
+@Entity(name = "tb_news")
 public class News extends BaseItem {
 
 }
